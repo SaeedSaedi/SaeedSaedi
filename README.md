@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a developer with a solid background in software deve
 ## 🤝 **Connect With Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saeedsaedi/)  
-- 📧 Email: [your-email@example.com](mailto:saeed.saedi.s@gmail.com)  
+- 📧 Email: [saeed.saedi.s@gmail.com](mailto:saeed.saedi.s@gmail.com)  
 
 
 ## 🛠️ **GitHub Stats**
