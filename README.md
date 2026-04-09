@@ -1,35 +1,21 @@
-<h1 align="center">Hi 👋, I'm Saeed Saedi</h1>
-<h3 align="center">🚀 Python Developer | FastAPI Expert | Industrial Management Enthusiast</h3>
+# Saeed Saedi
 
-Welcome to my GitHub! I’m a developer with a solid background in software development, API design, and production management. My journey blends technical expertise with industrial management insights, making me a unique problem-solver who bridges technology and operations.
+**Technical Product Manager** | Engineering Background. Product Mindset. Shipping at Scale.
 
-## 🎯 **About Me**
+---
 
-- 🎓 **Education**:  
-  - Bachelor of Science in **Industrial Management**  
-    *Imam Reza International University*  
+**2M+ users** | **31 microservices** | **20 engineers** | **8x production scale-up**
 
-- 💼 **Professional Experience**:  
-  - **API Developer**: Currently building APIs for [Kifpool.me](https://kifpool.me).  
-  - **Production Manager**: Over 5 years of experience at **ToosAlem Company**, managing and optimizing manufacturing processes.  
+---
 
-- 🛠️ **Technical Skills**:  
-  - Expert in **Python** and **FastAPI**  
-  - Proficient in RESTful API design and implementation  
-  - Skilled in integrating technical solutions with management strategies  
+- Lead a 20-engineer team delivering 31 microservices for a 2M-user cryptocurrency exchange at **Kifpool.me**
+- Own product roadmap, sprint execution, and delivery tracking with 95%+ on-time delivery
+- Previously scaled manufacturing output 8x (3K to 25K units/month) while improving efficiency by 40%
+- Promoted Developer to Technical Product Manager in under 6 months
 
-- 🌱 **Currently Learning**: Advanced concepts in API architecture and DevOps for scalable systems.
-- 👯 I’m looking to collaborate on **Python Project**
-- 💬 Ask me about **Python, Management**
+Currently building and scaling product & engineering at **Kifpool.me**.
 
+---
 
-## 🤝 **Connect With Me**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/saeedsaedi/)  
-- 📧 Email: [saeed.saedi.s@gmail.com](mailto:saeed.saedi.s@gmail.com)  
-
-
-## 🛠️ **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaeedSaedi&show_icons=true&theme=radical)
-
+[Website](https://saeedsaedi.github.io) | [LinkedIn](https://www.linkedin.com/in/saeedsaedi/) | [Email](mailto:saeed.saedi.s@gmail.com)
+```
