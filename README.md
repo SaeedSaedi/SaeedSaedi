@@ -11,7 +11,6 @@
 - Lead a 20-engineer team delivering 31 microservices for a 2M-user cryptocurrency exchange at **Kifpool.me**
 - Own product roadmap, sprint execution, and delivery tracking with 95%+ on-time delivery
 - Previously scaled manufacturing output 8x (3K to 25K units/month) while improving efficiency by 40%
-- Promoted Developer to Technical Product Manager in under 6 months
 
 Currently building and scaling product & engineering at **Kifpool.me**.
 
